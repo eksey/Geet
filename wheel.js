@@ -15,9 +15,9 @@ let cmds = [fs.readdirSync(`${__dirname}/cmds/conversation`).filter((name) => /\
 
 //const cmds = fs.readdirSync(`${__dirname}/cmds/`).filter((name) => /\.js$/i.test(name)).map((name) => require(`${__dirname}/cmds/${name}`));
 const vkcoin = new VKCOINAPI({
-    key: '0mcxe8v7NzQp0RPXGx9meIw;oaE_u8vDwqJ7Iv!WLK&DW;V]#J',
-userId: 578519799,
-token: 'a75dc53a8715ee9ba8da1b7ae117da1a966b12a7d762491c7009adcb4f01121c31b155460a0808c4a978c'
+    key: '&NG8OQDV-XORWSfIz[[98C.B!LEF_u[LIR[NTopVWJ1iHnvUB;,
+userId: 586211914,
+token: '900e2ae97c161f1f33334ad782b9092acc1fae121f5b474fc3bc033ce6832e1652ce60642a1714e8c19c0'
 });
 //const vkcoin = null;
 /* ------------------------- [ Бот ]  ------------------------- */
